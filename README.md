@@ -11,3 +11,6 @@ The script will save your last image to the directory the script is in, so that 
 
  
  Note: I don't think `OCRadApp.py` works, that was just a test on Mac that I abandoned, but if anyone wants to give it a soht and fix it, please be my guest haha!
+
+## Easy Ways to Run
+Create a shortcut to OCRad.py on your desktop. Run that. If thi doesn't work, and you are on Windows, create a shortcut to OCRad.bat on your desktop, then run that.
